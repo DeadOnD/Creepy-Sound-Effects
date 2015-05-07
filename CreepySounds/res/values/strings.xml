@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Creepy Sounds</string>
+    <string name="action_share">Share this app</string>
+    <string name="title_section1">Catscream</string>
+    <string name="title_section2">Ghost</string>
+    <string name="title_section3">I Will Kill You</string>
+    <string name="title_section4">Monster</string>
+    <string name="title_section5">Sqeaking Door</string>
+    <string name="title_section6">Zombie</string>
+    <!-- Icons from https://www.iconfinder.com/hooktraffic -->
+</resources>
